@@ -8,6 +8,8 @@
 #define log(...) (void)0
 // #define log printf
 
+//test change
+
 /*
  * Presence of these two variables here replaces _pros_ld_timestamp step in common.mk.
  * THis way we get equivalent behavior without extra .c file to compile, and this faster build.
